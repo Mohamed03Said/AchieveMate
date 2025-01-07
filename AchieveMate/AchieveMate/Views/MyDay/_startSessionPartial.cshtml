@@ -1,0 +1,183 @@
+﻿@using AchieveMate.Models.Enum
+@model AchieveMate.ViewModels.Session.StartSessionVM
+
+@{
+    SelectList activities = new SelectList(Model.Activities ?? new List<Activity>(), "Id", "Name");
+}
+
+<style>
+    h1 {
+        color: #4A90E2;
+        font-weight: 700;
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .session-form {
+        background-color: #fff;
+        max-width: 600px;
+        margin: 0 auto;
+        border-radius: 12px;
+        padding: 20px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        text-align: left;
+    }
+
+    .form-item {
+        margin-bottom: 20px;
+    }
+
+        .form-item label {
+            font-weight: bold;
+            color: #4A90E2;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .form-item input[type="text"],
+        .form-item input[type="number"],
+        .form-item input[type="time"],
+        .form-item select,
+        .form-item textarea {
+            width: 100%;
+            padding: 10px;
+            font-size: 1.1rem;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-sizing: border-box;
+            background-color: #fafafa;
+        }
+
+        .form-item select {
+            background-color: #fff;
+            color: #333;
+        }
+
+    .form-actions {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .btn {
+        padding: 12px 30px;
+        font-size: 1.1rem;
+        background-color: #4A90E2;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn:hover {
+            background-color: #3B7BC6;
+        }
+
+    .submit-btn {
+        background-color: #4CAF50;
+    }
+
+        .submit-btn:hover {
+            background-color: #3E8E41;
+        }
+
+    .cancel-btn {
+        background-color: orange;
+    }
+
+        .cancel-btn:hover {
+            background-color: darkorange;
+        }
+
+</style>
+
+
+<script>
+    function updateSessionFields() {
+        const sessionType = parseInt(document.getElementById('sessionType').value, 10);
+        const sessionFieldsDiv = document.getElementById('sessionFields');
+        sessionFieldsDiv.innerHTML = '';
+
+        if (sessionType === @((int)SessionType.Recorded)) {
+            sessionFieldsDiv.innerHTML = `
+                    <div class="form-item">
+                        <label asp-for="StartAt">Start Time:</label>
+                        <input asp-for="StartAt" id="startTime" name="StartAt" type="time" required/>
+                            <span asp-validation-for="StartAt" class="text-danger"></span>
+                    </div>
+                    <div class="form-item">
+                        <label asp-for="ElapsedTime">Elapsed Time:</label>
+                        <input asp-for="ElapsedTime" name="ElapsedTime" type="text" placeholder="hh:mm:ss" required />
+                        <span asp-validation-for="ElapsedTime" class="text-danger"></span>
+                    </div>
+                `;
+            document.getElementById('startBtn').innerHTML = 'Submit'; // Change button text
+        } else if (sessionType === @((int)SessionType.Timer)) {
+            sessionFieldsDiv.innerHTML = `
+                    <div class="form-item">
+                        <label asp-for="InitialTimer">Initial Timer:</label>
+                        <input asp-for="InitialTimer" id="initialTime" name="InitialTimer" type="text" placeholder="hh:mm:ss" required/>
+                        <span asp-validation-for="InitialTimer" class="text-danger"></span>
+                    </div>
+                `;
+            document.getElementById('sessionActions').style.display = 'block';
+            document.getElementById('startBtn').style.display = 'inline-block';
+        } else if (sessionType === @((int)SessionType.Stopwatch)) {
+            sessionFieldsDiv.innerHTML = '';  // No specific fields needed for stopwatch
+            document.getElementById('sessionActions').style.display = 'block';
+            document.getElementById('startBtn').style.display = 'inline-block';
+        }
+    }
+
+    function cancelSession() {
+        document.getElementById('sessionForm').style.display = 'none'; // Hide the form
+        document.getElementById('startSessionBtn').style.display = 'inline-block'; // Show the start button again
+    }
+
+    
+</script>
+
+
+<div id="sessionForm" class="session-form">
+    <h1>Start Session</h1>
+    <form id="sessionForm" asp-action="StartSession" asp-controller="MyDay" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        
+        <div class="form-item">
+            <label asp-for="Type">Select Session Type:</label>
+            <select required id="sessionType" name="Type" onchange="updateSessionFields()">
+                    <option value="" selected="selected">Select Session Type</option>
+                    <option value="0">Stopwatch</option>
+                    <option value="1">Timer</option>
+                    <option value="2">Recorded</option>
+            </select>
+            <span asp-validation-for="Type" class="text-danger"></span>
+        </div>
+
+        <div class="form-item">
+            <label for="Activity">Select Activity:</label>
+            <select required asp-for="Activity" id="activity" asp-items="@activities">
+                <option value="" selected>Select Session Activity</option>
+            </select>
+            <span asp-validation-for="Activity" class="text-danger"></span>
+        </div>
+
+        <div class="form-item">
+            <label for="notes">Notes:</label>
+            <textarea id="notes" asp-for="Notes" rows="2" placeholder="Enter Session Notes"></textarea>
+            <span asp-validation-for="Notes" class="text-danger"></span>
+        </div>
+
+        <div id="sessionFields"></div>
+
+        <div class="form-actions">
+            <button id="startBtn" type="submit" class="btn submit-btn">Start</button>
+            <a class="btn cancel-btn" id="cancelBtn" asp-controller="MyDay" asp-action="Index">Cancel</a>
+        </div>
+    </form>
+</div>
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>

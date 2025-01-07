@@ -1,0 +1,53 @@
+﻿@model AchieveMate.ViewModels.Habit.HabitDetailsVM
+
+
+<h1>Habit Details</h1>
+
+<div class="elements-details-card">
+    <div class="detail-item">
+        <label asp-for="Name"></label>
+        <span>@Model.Name</span>
+    </div>
+
+    <div class="detail-item">
+        <label asp-for="Type"></label>
+        <span class="@(Model.Type == AchieveMate.Models.Enum.HabitType.Good ? "good-habit-label" : "bad-habit-label")">
+            @Model.Type
+        </span>
+    </div>
+
+    <div class="detail-item">
+        <label asp-for="Notes"></label>
+        <span>@Model.Notes</span>
+    </div>
+
+    <div class="detail-item">
+        <label asp-for="Streak"></label>
+        <span>@Model.Streak</span>
+    </div>
+
+    <div class="detail-item">
+        <label asp-for="StreakDate"></label>
+        <span>@Model.StreakDate</span>
+    </div>
+
+    <div class="detail-item">
+        <label asp-for="MaxStreak"></label>
+        <span>@Model.MaxStreak</span>
+    </div>
+
+    <div class="detail-item">
+        <label asp-for="Completed"></label>
+        <span>@Model.Completed</span>
+    </div>
+
+    <div class="detail-item">
+        <label asp-for="StartDate"></label>
+        <span>@Model.StartDate</span>
+    </div>
+
+    <div class="actions">
+        <a class="btn back-btn" asp-Controller="Habit" asp-Action="Index" >Back to Habits List</a>
+        <a class="btn edit-btn" asp-Controller="Habit" asp-Action="Update" asp-route-id="@Model.Id" >Update Habit</a>
+    </div>
+</div>

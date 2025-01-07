@@ -1,0 +1,56 @@
+﻿@using AchieveMate.Models.Enum
+@model AchieveMate.ViewModels.Activity.ActivityVM
+
+
+<h1>Update Activity</h1>
+
+<form asp-controller="Activity" asp-action="Update" method="post" class="operations-form">
+    <div class="form-item">
+        <input asp-for="Id" type="hidden" />
+        <label asp-for="Name"></label>
+        <input asp-for="Name" placeholder="Enter Activity name" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-item">
+        <label asp-for="Notes"></label>
+        <textarea asp-for="Notes" class="form-control" rows="2"></textarea>
+        <span asp-validation-for="Notes" class="text-danger"></span>
+    </div>
+
+    <div class="form-item">
+        <label asp-for="Status"></label>
+        <select asp-for="Status" asp-items="Html.GetEnumSelectList<ActivityStatus>()">
+        </select>
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+
+    <div class="form-item">
+        <label asp-for="StartAt"></label>
+        <input asp-for="StartAt" class="form-control" />
+        <span asp-validation-for="StartAt" class="text-danger"></span>
+    </div>
+
+    <div class="form-item">
+        <label asp-for="EndAt"></label>
+        <input asp-for="EndAt" class="form-control" />
+        <span asp-validation-for="EndAt" class="text-danger"></span>
+    </div>
+
+    <div class="form-item">
+        <label asp-for="ExpiryDate"></label>
+        <input type="date" asp-for="ExpiryDate" class="form-control" />
+        <span asp-validation-for="ExpiryDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-actions">
+        <button type="submit" class="btn submit-btn">Save</button>
+        <a class="btn cancel-btn" asp-controller="Activity" asp-action="Index">Cancel</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AchieveMate
+build_property.RootNamespace = AchieveMate
+build_property.ProjectDir = D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Activity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Activity/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Activity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Activity/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Archive/Day.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxEYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Archive/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Archive/Year.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxZZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Archive/Years.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl2ZVxZZWFycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Habit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Habit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Habit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Habit/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/MyDay/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlEYXlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/MyDay/_startSessionPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlEYXlcX3N0YXJ0U2Vzc2lvblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Shared/_Layout01.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQwMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Shared/_paginationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYWdpbmF0aW9uUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Computer Science/web development/Back-End/ASP .NET Core/000 Projects/AchieveMate/AchieveMate/AchieveMate/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lbpe9i8319

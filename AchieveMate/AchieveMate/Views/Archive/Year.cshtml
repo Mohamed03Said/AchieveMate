@@ -1,0 +1,82 @@
+﻿@model AchieveMate.ViewModels.Archive.ArchiveYearVM
+
+
+<div class="archivecontainer">
+    <div class="archive-info-card">
+        <h1>Year Details</h1>
+        <div class="archive-detail-item">
+                <label asp-for="@Model.Year">Year: </label>
+                <span>@Model.Year</span>
+            </div>
+        <div class="archive-detail-item">
+                <label asp-for="@Model.AchieveMent">Activities Achievement: </label>
+                <span>@Model.AchieveMent.Display()</span>
+            </div>
+        <div class="archive-detail-item">
+                <label asp-for="@Model.CompletedHabits">Completed Habits: </label>
+                <span>@Model.CompletedHabits</span>
+            </div>
+    </div>
+
+    <div class="archive-sections">
+            <div class="archive2container">
+            <h1>Activities</h1>
+            @foreach (var activity in Model.Activities)
+            {
+                <div class="archive-info-card2">
+                    <div class="archive-detail-item">
+                            <label asp-for="@activity.Name">Activity: </label>
+                            <span>@activity.Name</span>
+                    </div>
+                    <div class="archive-detail-item">
+                            <label asp-for="@activity.SpentTime">Elapsed Time: </label>
+                            <span>@activity.SpentTime.Display()</span>
+                    </div>
+                    <div class="archive-detail-item">
+                            <label asp-for="@activity.Sessions">#Of Sessions: </label>
+                            <span>@activity.Sessions</span>
+                    </div>
+                    <div class="archive-detail-item">
+                            <label asp-for="@activity.IsFinished">Status: </label>
+                        @if(activity.IsFinished){
+                            <span>Finished</span>
+                        }
+                        else{
+                            <span>Active</span>
+                        }
+                    </div>
+                </div>
+                <div class="divider"></div>
+            }
+        </div>
+        <div class="archive2container">
+        <h1>Habits</h1>
+        @foreach (var habit in Model.Habits)
+        {
+            <div class="archive-info-card2">
+                    <div class="archive-detail-item">
+                        <label asp-for="@habit.Name">Habit: </label>
+                        <span>@habit.Name</span>
+                </div>
+                    <div class="archive-detail-item">
+                        <label asp-for="@habit.Completed">Completed: </label>
+                        <span>@habit.Completed</span>
+                </div>
+                    <div class="archive-detail-item">
+                    <label asp-for="@habit.IsActive">Status: </label>
+                    @if (habit.IsActive)
+                    {
+                        <span>Active</span>
+                    }
+                    else
+                    {
+                        <span>Disapled</span>
+                    }
+                </div>
+            </div>
+            <div class="divider"></div>
+        }
+        </div>
+
+    </div>
+</div>

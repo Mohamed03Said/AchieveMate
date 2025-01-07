@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="~/img/AchieveMate/icon.png">
+    <title>AchieveMate</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/_Layout01.css" />
+</head>
+<body>
+    <header>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg">
+            @{
+                @if (User?.Identity?.IsAuthenticated == true)
+                {
+                    <button class="sidebar-btn" onclick="toggleSidebar()">&#9776;</button>
+                }
+                <div class="navbar-brand">
+                    <img src="~/img/AchieveMate/icon.png" alt="Logo" class="brand-logo" />
+                    <a asp-area="" asp-controller="MyDay" asp-action="Index">AchieveMate</a>
+                </div>
+
+                <div class="day-date">
+                <span id="currentDay"></span><span id="currentDate"></span>
+            </div>
+            <div class="auth-section">
+
+                    @if(User?.Identity?.IsAuthenticated == true)
+                    {
+                        <span class="greeting" style="font-size:20px">Hello, @User.Identity.Name</span>
+                        <a asp-action="Logout" asp-controller="Account" class="ms-2"><i class="fa fa-sign-out" style="font-size:30px"></i></a>
+                    }
+                    else
+                    {
+                        <a asp-action="Login" asp-controller="Account" class="ms-2"><i class="fa fa-sign-in" style="font-size:36px; color:black"></i></a>
+                    }
+                
+            </div>
+            }
+        </nav>
+
+        <!-- Sidebar -->
+        <div class="sidebar-content" id="sidebar">
+            <a class="sidebar-link" asp-area="" asp-controller="MyDay" asp-action="Index">Home</a>
+            <a class="sidebar-link" asp-area="" asp-controller="Activity" asp-action="Index">Activities</a>
+            <a class="sidebar-link" asp-area="" asp-controller="Habit" asp-action="Index">Habits</a>
+            <a class="sidebar-link" asp-area="" asp-controller="Archive" asp-action="Index">Days Archive</a>
+            <a class="sidebar-link" asp-area="" asp-controller="Archive" asp-action="Years">Years Archive</a>
+        </div>
+    </header>
+        <!-- Main Content -->
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/_Layout01.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

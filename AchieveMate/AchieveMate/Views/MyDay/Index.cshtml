@@ -1,0 +1,374 @@
+﻿@using AchieveMate.ViewModels.MyDay
+@using AchieveMate.Models.Enum
+@model MyDayVM
+
+
+<script>
+
+    function showSessionForm() {
+            $.ajax({
+                url: '/MyDay/StartSession',
+                type: 'GET',
+                cache: false,
+                success: function (data) {
+                    document.getElementById('startSessionBtn').style.display = 'none';
+                    $("#sessionFormContainer").html(data);
+                },
+                error: function (xhr, status, error) {
+                    alert('Error loading session form: ' + error);
+                    console.error("AJAX Error: ", xhr, status, error); // Log error for debugging
+                }
+            });
+    }
+
+    let timerInterval;
+    let isTimerRunning = true;
+
+    function startTimer(initialTimeInSeconds) {
+        timeRemaining = initialTimeInSeconds;
+
+        timerInterval = setInterval(function () {
+            
+            if (isTimerRunning) {
+                if (timeRemaining <= 0) {
+                    clearInterval(timerInterval);
+                    notifyUser();
+                    return;
+                }
+
+                let hours = Math.floor(timeRemaining / 3600);
+                let minutes = Math.floor((timeRemaining % 3600) / 60);
+                let seconds = Math.floor(timeRemaining % 60);
+
+                document.getElementById('sessionTime').innerHTML =
+                    `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+
+                timeRemaining--;
+            }
+        }, 1000);
+    }
+
+            function notifyUser() {
+
+        const audio = new Audio('/audio/timer_notification.wav');
+        audio.play().catch((error) => {
+            console.error("Failed to play the audio. Ensure the file exists and is accessible.", error);
+        });
+
+        if (Notification.permission === 'default' || Notification.permission === 'denied') {
+            Notification.requestPermission().then((permission) => {
+                if (permission === 'granted') {
+                    showNotification();
+                } else {
+                    console.warn("Notification permission was denied.");
+                }
+            });
+        } else if (Notification.permission === 'granted') {
+            showNotification();
+        }
+
+        setTimeout(() => {
+            location.reload();
+        }, 4000);
+    }
+
+    function showNotification() {
+        const notification = new Notification("Timer Session", {
+            body: "Your session has finished",
+            icon: "/img/AchieveMate/icon.png",
+        });
+
+        notification.onclick = () => {
+            window.focus();
+        };
+    }
+
+
+    function pauseTimer() {
+        isTimerRunning = false;
+    }
+
+    function resumeTimer() {
+        isTimerRunning = true;
+    }
+
+
+    let stopwatchInterval;
+    let isStopwatchRunning = true;
+
+    function startStopwatch(initialTimeInSeconds) {
+        elapsedTime = initialTimeInSeconds;
+
+        stopwatchInterval = setInterval(function () {
+            
+            if (isStopwatchRunning) {
+                let hours = Math.floor(elapsedTime / 3600);
+                let minutes = Math.floor((elapsedTime % 3600) / 60);
+                let seconds = Math.floor(elapsedTime % 60);
+
+                document.getElementById('sessionTime').innerHTML =
+                    `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+
+                elapsedTime++;
+            }
+        }, 1000);
+    }
+
+    function pauseStopwatch() {
+        isStopwatchRunning = false;
+    }
+
+    function resumeStopwatch() {
+        isStopwatchRunning = true;
+    }
+
+</script>
+
+
+    <h1>Today's Achievements</h1>
+
+    <div class="mydaycontainer">
+
+    <div class="time-span">
+        <b>Time Spent On Activities: @Model.Achievement.Display()</b>
+    </div>
+
+        <table class="habits-table">
+            <thead>
+                <tr>
+                    <th>Habit</th>
+                    <th>Status</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach(var item in Model.Habits)
+            {
+                <tr>
+                    <td>@item.Habit.Name</td>
+                    <td>
+                        <input class="habit-checkbox" type="checkbox" @(item.IsCompleted ? "checked" : "")
+                               data-habit-id="@item.HabitId" data-day-id="@item.DayId">
+                    </td>
+                    @if (item.Habit.Type == @AchieveMate.Models.Enum.HabitType.Good)
+                    {
+                        <td>Keep</td>
+                    }
+                    else
+                    {
+                        <td>Leave</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+        @if (Model.Session == null)
+        {
+            <div class="text-center">
+                <button class="mydaybtn" id="startSessionBtn" onclick="showSessionForm()" style="display:hidden">Start New Session</button>
+            </div>
+
+            <div id="sessionFormContainer"></div>
+        }
+        else
+        {
+            <div class="session-container">
+                <h3 class="session-header">Activity: @Model.Session.Activity</h3>
+
+               <div class="time-display">
+                    <span id="sessionTime">@Model.Session.Time.ToString("hh\\:mm\\:ss")</span>
+                </div>
+
+
+                @if (Model.Session.Type == SessionType.Timer)
+                {
+                    <script>
+                        var timeRemaining = '@Model.Session.Time.TotalSeconds';
+                        startTimer(timeRemaining);
+                    </script>
+                    
+                    if(Model.Session.Status == SessionStatus.Paused)
+                    {
+                        <script>
+                            pauseTimer();
+                        </script>
+                    }
+                }
+                else if (Model.Session.Type == SessionType.Stopwatch)
+                {
+                    <script>
+                        var elapsedTime = '@Model.Session.Time.TotalSeconds';
+                        startStopwatch(elapsedTime);
+                    </script>
+                    
+                    if (Model.Session.Status == SessionStatus.Paused)
+                    {
+                        <script>
+                            pauseStopwatch();
+                        </script>
+                    }
+                }
+
+                <div class="session-buttons">
+
+                    <a class="btn btn-success" id="StatusBtn">Status</a>
+                    <a class="btn btn-secondary" asp-action="FinishSession" asp-controller="MyDay">Finish</a>
+                    <a class="btn btn-danger" asp-action="CancelSession" asp-controller="MyDay">Cancel</a>
+                </div>
+
+            <div class="footer">
+                <div>
+                    <label asp-for="Session!.Notes" name="SessionNotes" id="SessionNotesLabel"></label>
+                    <textarea asp-for="Session!.Notes" name="SessionNotes" id="SessionNotes" class="form-control" rows="2" readonly></textarea>
+                </div>
+                <button class="btn" id="editSession-button">Edit</button>
+                <button class="btn" id="saveSession-button" style="display:none;">Save</button>
+            </div>
+            </div>
+        }
+
+
+        <div class="footer">
+        <div class="edit-section" style="margin-top: 20px;">
+            <div>
+                <label asp-for="Notes" id="NotesLabel"></label>
+                <textarea asp-for="Notes" id="Notes" class="form-control" rows="3" readonly></textarea>
+            </div>
+            <div>
+                <label asp-for="Evaluation" id="EvaluationLabel"></label>
+                <select asp-for="Evaluation" id="Evaluation" asp-items="Html.GetEnumSelectList<DayEvaluation>()" class="form-control" disabled>
+                </select>
+            </div>
+            <button class="btn" id="edit-button">Edit</button>
+            <button class="btn" id="save-button" style="display:none;">Save</button>
+        </div>
+        </div>
+    </div>
+        
+@section Scripts {
+    <script>
+        $(document).on('change', '.habit-checkbox', function () {
+            let habitId = $(this).data('habit-id');
+            let dayId = $(this).data('day-id');
+            let isChecked = $(this).is(':checked');
+
+            $.ajax({
+                url: '/MyDay/UpdateHabitStatus',
+                type: 'POST',
+                data: {
+                    habitId: habitId,
+                    dayId: dayId,
+                    status: isChecked
+                },
+                success: function (response) {
+                    alert('Habit status updated successfully!');
+                },
+                error: function () {
+                    alert('Error updating habit status.');
+                }
+            });
+        });
+
+        $(document).on("click", "#edit-button", function () {
+            $("#Notes").prop('readonly', false);
+            $("#Evaluation").prop('disabled', false);
+            $(this).hide();
+            $("#save-button").show(); 
+        });
+
+        $(document).on("click", "#save-button", function () {
+            
+            let updatedNotes = $("textarea[name='Notes']").val();
+            let updatedEvaluation = $("select[name='Evaluation']").val();
+
+            let formData = new FormData();
+            formData.append("Notes", updatedNotes);
+            formData.append("Evaluation", updatedEvaluation);
+
+            $.ajax({
+                url: '/MyDay/UpdateMyDay',
+                type: 'POST',
+                contentType: 'application/json',
+                data: formData,
+                processData: false,
+                contentType: false,
+                success: function (response) {
+                    alert('Notes and evaluation updated successfully!');
+                    $("#Notes").prop('readonly', true);
+                    $("#Evaluation").prop('disabled', true);
+                    $("#edit-button").show();
+                    $("#save-button").hide();
+                },
+                error: function () {
+                    alert('Error saving notes and evaluation.');
+                }
+            });
+        });
+
+        var sessionStatus = '@Model?.Session?.Status';
+
+        if (sessionStatus == '@SessionStatus.InProgress') {
+            document.getElementById('StatusBtn').innerText = 'Pause';
+        } else if (sessionStatus == '@SessionStatus.Paused') {
+            document.getElementById('StatusBtn').innerText = 'Resume';
+        }
+
+        $(document).on("click", "#editSession-button", function () {
+            $("#SessionNotes").prop('readonly', false);
+            $(this).hide();
+            $("#saveSession-button").show();
+        });
+
+        $(document).on("click", "#saveSession-button", function () {
+            let editedNotes = $("textarea[name='SessionNotes']").val();
+
+            alert(editedNotes);
+            $.ajax({
+                url: '/MyDay/UpdateSessionNotes',
+                type: 'POST',
+                data: {editedNotes: editedNotes},
+                success: function (response) {
+                    alert('Notes updated successfully!');
+                    $("#SessionNotes").prop('readonly', true);
+                    $("#editSession-button").show();
+                    $("#saveSession-button").hide();
+                },
+                error: function () {
+                    alert('Error saving notes.');
+                }
+            });
+        });
+
+        $("#StatusBtn").click(function () {
+            $.ajax({
+                url: '/MyDay/UpdateSessionStatus',
+                type: 'POST',
+                success: function (response) {
+                    if (response.status === "Paused") {
+                        document.getElementById('StatusBtn').innerText = 'Resume';
+                        if (response.type === 'Stopwatch') {
+                            elapsedTime = response.time;
+                            pauseStopwatch();
+                        }
+                        else if (response.type === 'Timer') {
+                            timeRemaining = response.time;
+                            pauseTimer();
+                        }
+                    } else if (response.status === "InProgress") {
+                        document.getElementById('StatusBtn').innerText = 'Pause';
+                        if (response.type === 'Stopwatch') {
+                            elapsedTime = response.time;
+                            resumeStopwatch();
+                        }
+                        else if (response.type === 'Timer') {
+                            timeRemaining = response.time;
+                            resumeTimer();
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+}

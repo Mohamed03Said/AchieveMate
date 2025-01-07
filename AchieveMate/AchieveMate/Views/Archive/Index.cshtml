@@ -1,0 +1,36 @@
+﻿@model PaginationVM<List<AchieveMate.ViewModels.Archive.DaysListVM>>
+
+
+<div class="search-container">
+    <h1>Search By Date</h1>
+    <form asp-action="Day" asp-controller="Archive" method="get">
+        <input type="date" name="date" required/>
+        <button type="submit">Search</button>
+    </form>
+</div>
+
+<div class="archive-container">
+    <h1>Days Archive</h1>
+    @foreach (var day in Model.instance)
+    {
+        <a asp-controller="Archive" asp-action="Day" asp-route-date="@day.Date">
+        <div class="archive-card">
+            <div class="archive-detail-item">
+                <label asp-for="@day.Date">Date: </label>
+                <span>@day.Date</span>
+            </div>
+            <div class="archive-detail-item">
+                <label asp-for="@day.Evaluation">Evaluation: </label>
+                <span>@day.Evaluation</span>
+            </div>
+            <div class="archive-detail-item">
+                <label asp-for="@day.Achievement">Achievement: </label>
+                <span>@day.Achievement.Display()</span>
+            </div>
+        </div>
+        </a>
+    }
+
+    <partial name="_paginationPartial" mode="@Model"></partial>
+
+</div>

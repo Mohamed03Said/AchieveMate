@@ -1,0 +1,108 @@
+﻿@using AchieveMate.Models.Enum
+@model AllActivitiesVM
+
+
+<h1>Activities</h1>
+
+<div class="create-button-container">
+    <a class="btn create-activity-btn" asp-controller="Activity" asp-action="Create">Create New Activity</a>
+</div>
+
+<div class="tables-container">
+
+<h3>In Progress Activities</h3>
+
+<table class="index-table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Elapsed Time</th>
+            <th>Expiry Date</th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var activity in Model.InProgress)
+        {
+            <tr>
+                <td>@activity.Name</td>
+                <td>@activity.SpentTime.Display()</td>
+                <td>@activity.ExpiryDate</td>
+                <td>
+                    <a class="btn details-btn" asp-controller="Activity" asp-action="Details" asp-route-id="@activity.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<button class="collapsible">To Do Activities</button>
+<div class="collapsible-content">
+        <table class="index-table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Operations</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var activity in Model.ToDo)
+            {
+                <tr>
+                    <td>@activity.Name</td>
+                    <td>
+                        <a class="btn details-btn" asp-controller="Activity" asp-action="Details" asp-route-id="@activity.Id">Details</a>
+                        <a class="btn details-btn" asp-controller="Activity" asp-action="Update" asp-route-id="@activity.Id">Update</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+
+<button class="collapsible">Finished Activities</button>
+<div class="collapsible-content">
+    <table class="index-table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Spent Time</th>
+                <th>End date</th>
+                <th>Operations</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var activity in Model.Finished)
+            {
+                <tr>
+                    <td>@activity.Name</td>
+                    <td>@activity.SpentTime.Display()</td>
+                    <td>@activity.FinishedAt</td>
+                    <td>
+                        <a class="btn details-btn" asp-controller="Activity" asp-action="Details" asp-route-id="@activity.Id">Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const collapsibles = document.getElementsByClassName("collapsible");
+
+        for (let i = 0; i < collapsibles.length; i++) {
+            collapsibles[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+
+                const content = this.nextElementSibling;
+                if (content.style.maxHeight) {
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+    </script>
+}

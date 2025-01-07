@@ -1,0 +1,530 @@
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\appsettings.Development.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\appsettings.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.staticwebassets.runtime.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.exe
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.deps.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.runtimeconfig.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.pdb
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Azure.Core.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Azure.Identity.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Humanizer.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.CodeDom.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.csproj.AssemblyReference.cache
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.AssemblyInfoInputs.cache
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.AssemblyInfo.cs
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.csproj.CoreCompileInputs.cache
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.RazorAssemblyInfo.cache
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.RazorAssemblyInfo.cs
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.sourcelink.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.AchieveMate.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.build.AchieveMate.props
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AchieveMate.props
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AchieveMate.props
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\scopedcss\bundle\AchieveMate.styles.css
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\scopedcss\projectbundle\AchieveMate.bundle.scp.css
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveM.87651625.Up2Date
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\refint\AchieveMate.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.pdb
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.genruntimeconfig.cache
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\ref\AchieveMate.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AutoMapper.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Common.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.staticwebassets.endpoints.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.AchieveMate.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Programming\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\appsettings.Development.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\appsettings.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.staticwebassets.endpoints.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.staticwebassets.runtime.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.exe
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.deps.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.runtimeconfig.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AchieveMate.pdb
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AutoMapper.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Azure.Core.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Azure.Identity.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Humanizer.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Common.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.CodeDom.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.csproj.AssemblyReference.cache
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.AssemblyInfoInputs.cache
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.AssemblyInfo.cs
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.csproj.CoreCompileInputs.cache
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.MvcApplicationPartsAssemblyInfo.cache
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.RazorAssemblyInfo.cache
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.RazorAssemblyInfo.cs
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.sourcelink.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\scopedcss\bundle\AchieveMate.styles.css
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\scopedcss\projectbundle\AchieveMate.bundle.scp.css
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.build.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.development.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.AchieveMate.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.AchieveMate.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.build.AchieveMate.props
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AchieveMate.props
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AchieveMate.props
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveM.87651625.Up2Date
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\refint\AchieveMate.dll
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.pdb
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\AchieveMate.genruntimeconfig.cache
+D:\Computer Science\web development\Back-End\ASP .NET Core\000 Projects\AchieveMate\AchieveMate\AchieveMate\obj\Debug\net8.0\ref\AchieveMate.dll

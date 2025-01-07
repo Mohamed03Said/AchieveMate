@@ -1,0 +1,34 @@
+﻿@model List<AchieveMate.ViewModels.Archive.ArchiveYearsListVM>
+
+
+<div class="search-container">
+    <h1>Archive a Year</h1>
+    <form asp-action="Year" asp-controller="Archive" method="get">
+        <input type="number" name="year" required />
+        <button type="submit">Archive</button>
+    </form>
+</div>
+
+<div class="archive-container">
+    <h1>Years Archive</h1>
+    @foreach (var year in Model)
+    {
+        <a asp-controller="Archive" asp-action="Year" asp-route-year="@year.Year">
+            <div class="archive-card">
+                <div class="archive-detail-item">
+                    <label asp-for="@year.Year">Year: </label>
+                    <span>@year.Year</span>
+                </div>
+                <div class="archive-detail-item">
+                    <label asp-for="@year.Achievement">Activities Achievement: </label>
+                    <span>@year.Achievement.Display()</span>
+                </div>
+                <div class="archive-detail-item">
+                    <label asp-for="@year.CompletedHabits">Completed Habits: </label>
+                    <span>@year.CompletedHabits</span>
+                </div>
+            </div>
+        </a>
+    }
+
+</div>

@@ -1,0 +1,49 @@
+﻿@model LoginVM
+
+@{
+    Layout = "_Layout01";
+}
+
+<div class="auth-container">
+    <div class="auth-card">
+        <div class="card-heading">
+            <h2>Sign In</h2>
+        </div>
+    <form asp-action="Login" method="POST">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="form-group">
+            <div class="input-field">
+                <i class="fa fa-envelope"></i>
+                <input asp-for="Email" placeholder="Enter your Email" required>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="input-field">
+                <i class="fa fa-key"></i>
+                <input asp-for="Password" placeholder="Enter your Password" required>
+            </div>
+        </div>
+
+        <div class="form-inline">
+            <input asp-for="RememberMe" id="remember">
+            <label asp-for="RememberMe">Remember me</label>
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Login</button>
+        </div>
+
+            <div class="text-center auth-footer">
+            Don't have an account? <a asp-controller="Account" asp-action="Register">Sign up</a>
+        </div>
+    </form>
+</div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

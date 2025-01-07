@@ -1,0 +1,31 @@
+﻿@using AchieveMate.Models.Enum
+@model AchieveMate.ViewModels.Habit.HabitVM
+
+
+<h1>Update Habit</h1>
+
+<form asp-action="Update" method="post" class="operations-form">
+    <div class="form-item">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" placeholder="Enter habit name" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-item">
+        <label asp-for="Type"></label>
+        <select asp-for="Type" asp-items="Html.GetEnumSelectList<HabitType>()">
+        </select>
+        <span asp-validation-for="Type" class="text-danger"></span>
+    </div>
+
+    <div class="form-item">
+        <label asp-for="Notes"></label>
+        <textarea asp-for="Notes" rows="2" class="form-control" placeholder="Enter Habit Notes"></textarea>
+        <span asp-validation-for="Notes" class="text-danger"></span>
+    </div>
+
+    <div class="form-actions">
+        <button type="submit" class="btn submit-btn">Save</button>
+        <a class="btn cancel-btn" asp-controller="Habit" asp-action="Index">Cancel</a>
+    </div>
+</form>

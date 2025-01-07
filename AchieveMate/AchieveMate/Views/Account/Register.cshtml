@@ -1,0 +1,60 @@
+﻿@model RegisterVM
+
+@{
+    Layout = "_Layout01";
+}
+
+<div class="auth-container">
+    <div class="auth-card">
+        <div class="card-heading">
+            <h2>Sign Up</h2>
+        </div>
+        <form asp-controller="Account" asp-action="Register" method="POST">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <div class="input-field">
+                <i class="fa fa-user icon"></i>
+                <input asp-for="Name" placeholder="Full Name" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            </div>
+
+            <div class="form-group">
+                <div class="input-field">
+                <i class="fa fa-envelope icon"></i>
+                <input asp-for="Email" placeholder="Email Address" required />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            </div>
+
+            <div class="form-group">
+                <div class="input-field">
+                <i class="fa fa-key icon"></i>
+                <input asp-for="Password" type="password" placeholder="Password" required />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            </div>
+
+            <div class="form-group">
+                <div class="input-field">
+                <i class="fa fa-key icon"></i>
+                <input asp-for="ConfirmPassword" type="password" placeholder="Confirm Password" required />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Create Account</button>
+
+            <div class="text-center auth-footer">
+                <p>Already have an account? <a asp-controller="Account" asp-action="Login">Log In</a></p>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

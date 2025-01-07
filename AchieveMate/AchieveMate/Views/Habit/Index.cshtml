@@ -1,0 +1,85 @@
+﻿@using AchieveMate.Models.Enum
+@model IEnumerable<HabitsListVM>
+
+
+<h1>Habits</h1>
+
+<div class="create-button-container">
+    <a class="btn create-habit-btn" asp-controller="Habit" asp-action="Create">Create New Habit</a>
+</div>
+
+<div class="tables-container">
+<table class="index-table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Streak</th>
+            <th></th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var habit in Model)
+         {
+               if (habit.Type != HabitType.InActive)
+               {
+                   <tr class="@(habit.Type == HabitType.Good ? "good-habit-row" : "bad-habit-row")">
+                       <td>@habit.Name</td>
+                       <td>@habit.Streak</td>
+                       <td>@(habit.Type == HabitType.Good ? "To be kept" : "To be left")</td>
+                       <td>
+                           <a class="btn details-btn" asp-controller="Habit" asp-action="Details" asp-route-id="@habit.Id">Details</a>
+                       </td>
+                   </tr>
+               }
+        }
+    </tbody>
+</table>
+
+    <button class="collapsible">InActive Habits</button>
+<div class="collapsible-content">
+        <table class="index-table">
+        <thead>
+            <tr>
+                    <th>Name</th>
+                    <th>Operations</th>
+            </tr>
+        </thead>
+        <tbody>
+                @foreach (var habit in Model)
+                {
+                    if (habit.Type == HabitType.InActive)
+                    {
+                        <tr>
+                            <td>@habit.Name</td>
+                            
+                            <td>
+                                <a class="btn details-btn" asp-controller="Habit" asp-action="Details" asp-route-id="@habit.Id">Details</a>
+                                <a class="btn details-btn" asp-controller="Habit" asp-action="Update" asp-route-id="@habit.Id">Update</a>
+                            </td>
+                        </tr>
+                    }
+                }
+        </tbody>
+    </table>
+</div>
+</div>
+
+@section Scripts {
+    <script>
+        const collapsibles = document.getElementsByClassName("collapsible");
+
+        for (let i = 0; i < collapsibles.length; i++) {
+            collapsibles[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+
+                const content = this.nextElementSibling;
+                if (content.style.maxHeight) {
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+    </script>
+}

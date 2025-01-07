@@ -1,0 +1,102 @@
+﻿@model AchieveMate.ViewModels.Archive.DayDetailsVM
+
+
+<div class="archivecontainer">
+    <div class="archive-info-card">
+        <h1>Day Details</h1>
+        <div class="archive-detail-item">
+            <label asp-for="Date">Date: </label>
+            <span>@Model.Date</span>
+        </div>
+
+        <div class="archive-detail-item">
+            <label asp-for="Evaluation">Evaluation: </label>
+            <span>@Model.Evaluation</span>
+        </div>
+
+        <div class="archive-detail-item">
+            <label asp-for="Achievement">Achievement: </label>
+            <span>@Model.Achievement.Display()</span>
+        </div>
+
+        <div class="archive-detail-item">
+            <label asp-for="Notes">Notes: </label>
+            <textarea asp-for="Notes" class="form-control" rows="2" readonly></textarea>
+        </div>
+    </div>
+
+    <div class="archive-sections">
+        <div class="archive2container">
+            <h1>Sessions</h1>
+            @foreach(var session in Model.Sessions)
+            {
+                <div class="archive2-info-card">
+                    <div class="archive-detail-item">
+                        <label asp-for="@session.Activity">Activity: </label>
+                        <span>@session.Activity</span>
+                    </div>
+                    <div class="archive-detail-item">
+                        <label asp-for="@session.Session.ElapsedTime">Elapsed Time: </label>
+                        <span>@session.Session.ElapsedTime</span>
+                    </div>
+                    <div class="archive-detail-item">
+                        <label asp-for="@session.Session.StartAt">Start At: </label>
+                        <span>@session.Session.StartAt</span>
+                    </div>
+                    <div class="archive-detail-item">
+                        <label asp-for="@session.Session.FinishedAt">Finished At: </label>
+                        <span>@session.Session.FinishedAt</span>
+                    </div>
+                    <div class="archive-detail-item">
+                        <label asp-for="@session.Session.Type">Type: </label>
+                        <span>@session.Session.Type</span>
+                    </div>
+                    <div class="archive-detail-item">
+                        <label asp-for="@session.Session.Notes">Notes: </label>
+                        <span>@session.Session.Notes</span>
+                    </div>
+                </div>
+                <div class="divider"></div>
+            }
+        </div>
+
+        <div class="archive2container">
+            <h1>Habits</h1>
+            <table class="habits-table">
+                <thead>
+                    <tr>
+                        <th>Habit</th>
+                        <th>Status</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Habits)
+                    {
+                        <tr>
+                            <td>@item.Habit</td>
+                            @if (item.IsCompleted)
+                            {
+                                <td style="color:green">✔</td>
+                            }
+                            else
+                            {
+
+                                <td style="color:red">✘</td>
+                            }
+                            @if (item.Type == @AchieveMate.Models.Enum.HabitType.Good)
+                            {
+                                <td>Kept</td>
+                            }
+                            else
+                            {
+                                <td>Left</td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
