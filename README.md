@@ -4,16 +4,16 @@
 <h2> Features </h2>
 
 - Home Page
-  - Display table of active habit to check them as completed
-  - Start a session to track the time spent on activities
-  - Add notes and evaluate your day
+  - Display table of active habits to check them as completed.
+  - Start a session to track the time spent on activities with the ability to pause, resume and cancel it.
+  - Add notes and evaluate your day.
 - Session Types
   - Stopwatch: Track activities time until we finish.
   - Recorded: Log sessions completed offline.
   - Timer: Set a countdown timer with notification when it's done.
 - Habit & Activity Management
-  - Add or edit habit and activities
-  - Track streack for habit and progress for activites.
+  - Add or edit habit and activities.
+  - Track streak for habit and progress for activites.
 - Archives
   - Days: Review your daily activities and habits progress log.
   - Years: Review a full year's activity log.
@@ -34,7 +34,7 @@
 - Views: Interface using Razor Pages
 
 <h2>Demo</h2>
-<p><a href=" target="_blank">Demo Video</a></p>
+<p><a href="https://youtu.be/wJMc7rnJUdw" target="_blank">Demo Video</a></p>
 
 <h2>Schema</h2>
 <img src="/AchieveMate-Schema.png" alt="Schema">
