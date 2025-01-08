@@ -100,7 +100,6 @@ namespace AchieveMate.Controllers
         [HttpPost]
         public IActionResult UpdateSessionNotes(string editedNotes)
         {
-            Console.WriteLine($"Notes: {editedNotes}");
             int userId = UserHelper.GetUserId(User);
             bool result = _myDayService.UpdateSessionNotes(userId, editedNotes);
             if(result == true)

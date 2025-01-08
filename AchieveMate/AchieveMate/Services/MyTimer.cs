@@ -49,7 +49,6 @@ public class MyTimer
         if (Remaining <= TimeSpan.FromSeconds(0))
         {
             timer.Stop();
-            Console.WriteLine("\n\nfrom MyTimer...\n\n");
             if (TimerEnded != null)
             {
                 await TimerEnded(this, new SessionEventArgs(userId));

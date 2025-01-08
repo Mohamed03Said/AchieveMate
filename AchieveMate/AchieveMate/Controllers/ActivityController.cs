@@ -20,10 +20,8 @@ namespace AchieveMate.Controllers
         #region Remote Validations
         public async Task<JsonResult> ActivityValidation(string Name, int Id)
         {
-            Console.WriteLine("fdfdf\n\n\n");
             int userId = UserHelper.GetUserId(User);
             bool result = await _Activitieservice.IsUniqueActivityName(userId, Id, Name);
-            Console.WriteLine($"result: {result}\n\n\n");
             return Json(!result);
         }
         #endregion

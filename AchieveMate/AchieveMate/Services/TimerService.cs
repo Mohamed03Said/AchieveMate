@@ -50,7 +50,6 @@ namespace AchieveMate.Services
 
         public async Task OnSessionFinished(object Sender, SessionEventArgs e)
         {
-            Console.WriteLine("\n\nfrom MyTImerSer...\n\n");
             await OnFinished(Sender, e);
         }
 

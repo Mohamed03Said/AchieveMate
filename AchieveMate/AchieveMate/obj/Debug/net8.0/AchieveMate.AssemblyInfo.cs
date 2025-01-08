@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AchieveMate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab74b84c9f9b29d60378ec9d4ed86197a0687543")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17ee3780f8ea812f826d2f609368bdda03b87062")]
 [assembly: System.Reflection.AssemblyProductAttribute("AchieveMate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AchieveMate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

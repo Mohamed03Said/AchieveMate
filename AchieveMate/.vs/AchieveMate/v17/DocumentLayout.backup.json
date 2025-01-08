@@ -3,47 +3,28 @@
   "WorkspaceRootPath": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\services\\archivesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\services\\archivesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\dataaccess\\repositories\\archivesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\dataaccess\\repositories\\archivesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\services\\mytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\services\\mytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\services\\mydayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\services\\mydayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Migrations\\20250107230029_AchieveMate_Schema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AchieveMate\\Migrations\\20250107230029_AchieveMate_Schema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\controllers\\mydaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\controllers\\mydaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eldee\\OneDrive\\Desktop\\20250107225723_AchieveMate_Schema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\dataaccess\\context\\config\\archiveconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\dataaccess\\context\\config\\archiveconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\models\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\models\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\views\\archive\\years.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\views\\archive\\years.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\wwwroot\\css\\_layout01.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\wwwroot\\css\\_layout01.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\views\\archive\\year.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\views\\archive\\year.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\views\\shared\\_layout01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\views\\shared\\_layout01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|d:\\computer science\\web development\\back-end\\asp .net core\\000 projects\\achievemate\\achievemate\\achievemate\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DE3B8C-56B6-4E56-9446-8A32049E7C86}|AchieveMate\\AchieveMate.csproj|solutionrelative:achievemate\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,8 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 131,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTimer.cs",
+              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Services\\MyTimer.cs",
+              "RelativeDocumentMoniker": "AchieveMate\\Services\\MyTimer.cs",
+              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Services\\MyTimer.cs*",
+              "RelativeToolTip": "AchieveMate\\Services\\MyTimer.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAMwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:27:26.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimerService.cs",
+              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Services\\TimerService.cs",
+              "RelativeDocumentMoniker": "AchieveMate\\Services\\TimerService.cs",
+              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Services\\TimerService.cs*",
+              "RelativeToolTip": "AchieveMate\\Services\\TimerService.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAD4vzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:27:21.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDayService.cs",
+              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Services\\MyDayService.cs",
+              "RelativeDocumentMoniker": "AchieveMate\\Services\\MyDayService.cs",
+              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Services\\MyDayService.cs*",
+              "RelativeToolTip": "AchieveMate\\Services\\MyDayService.cs*",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAMwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:25:52.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Program.cs",
+              "RelativeDocumentMoniker": "AchieveMate\\Program.cs",
+              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Program.cs",
+              "RelativeToolTip": "AchieveMate\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAMwFAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:25:49.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDayController.cs",
+              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Controllers\\MyDayController.cs",
+              "RelativeDocumentMoniker": "AchieveMate\\Controllers\\MyDayController.cs",
+              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Controllers\\MyDayController.cs*",
+              "RelativeToolTip": "AchieveMate\\Controllers\\MyDayController.cs*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAWwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:25:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "AchieveMate\\Controllers\\ActivityController.cs",
+              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Controllers\\ActivityController.cs*",
+              "RelativeToolTip": "AchieveMate\\Controllers\\ActivityController.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwBcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:25:27.018Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -66,147 +125,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArchivesRepository.cs",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\DataAccess\\Repositories\\ArchivesRepository.cs",
-              "RelativeDocumentMoniker": "AchieveMate\\DataAccess\\Repositories\\ArchivesRepository.cs",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\DataAccess\\Repositories\\ArchivesRepository.cs",
-              "RelativeToolTip": "AchieveMate\\DataAccess\\Repositories\\ArchivesRepository.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswEcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:04:10.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250107230029_AchieveMate_Schema.cs",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Migrations\\20250107230029_AchieveMate_Schema.cs",
-              "RelativeDocumentMoniker": "AchieveMate\\Migrations\\20250107230029_AchieveMate_Schema.cs",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Migrations\\20250107230029_AchieveMate_Schema.cs",
-              "RelativeToolTip": "AchieveMate\\Migrations\\20250107230029_AchieveMate_Schema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:00:29.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250107225723_AchieveMate_Schema.cs",
-              "DocumentMoniker": "C:\\Users\\eldee\\OneDrive\\Desktop\\20250107225723_AchieveMate_Schema.cs",
-              "ToolTip": "C:\\Users\\eldee\\OneDrive\\Desktop\\20250107225723_AchieveMate_Schema.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:57:23.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArchiveConfiguration.cs",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\DataAccess\\Context\\Config\\ArchiveConfiguration.cs",
-              "RelativeDocumentMoniker": "AchieveMate\\DataAccess\\Context\\Config\\ArchiveConfiguration.cs",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\DataAccess\\Context\\Config\\ArchiveConfiguration.cs",
-              "RelativeToolTip": "AchieveMate\\DataAccess\\Context\\Config\\ArchiveConfiguration.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:53:41.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Archive.cs",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Models\\Archive.cs",
-              "RelativeDocumentMoniker": "AchieveMate\\Models\\Archive.cs",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Models\\Archive.cs",
-              "RelativeToolTip": "AchieveMate\\Models\\Archive.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:35:01.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArchivesService.cs",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Services\\ArchivesService.cs",
-              "RelativeDocumentMoniker": "AchieveMate\\Services\\ArchivesService.cs",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Services\\ArchivesService.cs*",
-              "RelativeToolTip": "AchieveMate\\Services\\ArchivesService.cs*",
-              "ViewState": "AgIAAMIAAAAAAAAAAAAawO0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:25:55.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Program.cs",
-              "RelativeDocumentMoniker": "AchieveMate\\Program.cs",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Program.cs",
-              "RelativeToolTip": "AchieveMate\\Program.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T22:24:52.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Years.cshtml",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Views\\Archive\\Years.cshtml",
-              "RelativeDocumentMoniker": "AchieveMate\\Views\\Archive\\Years.cshtml",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Views\\Archive\\Years.cshtml",
-              "RelativeToolTip": "AchieveMate\\Views\\Archive\\Years.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T21:56:30.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Year.cshtml",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Views\\Archive\\Year.cshtml",
-              "RelativeDocumentMoniker": "AchieveMate\\Views\\Archive\\Year.cshtml",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Views\\Archive\\Year.cshtml",
-              "RelativeToolTip": "AchieveMate\\Views\\Archive\\Year.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAEAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T21:56:29.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout01.cshtml",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Views\\Shared\\_Layout01.cshtml",
-              "RelativeDocumentMoniker": "AchieveMate\\Views\\Shared\\_Layout01.cshtml",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\Views\\Shared\\_Layout01.cshtml",
-              "RelativeToolTip": "AchieveMate\\Views\\Shared\\_Layout01.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T21:11:04.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout01.css",
-              "DocumentMoniker": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\wwwroot\\css\\_Layout01.css",
-              "RelativeDocumentMoniker": "AchieveMate\\wwwroot\\css\\_Layout01.css",
-              "ToolTip": "D:\\Computer Science\\web development\\Back-End\\ASP .NET Core\\000 Projects\\AchieveMate\\AchieveMate\\AchieveMate\\wwwroot\\css\\_Layout01.css",
-              "RelativeToolTip": "AchieveMate\\wwwroot\\css\\_Layout01.css",
-              "ViewState": "AgIAAOICAAAAAAAAAAAAwOkCAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-07T21:02:02.634Z",
-              "EditorCaption": ""
             }
           ]
         }

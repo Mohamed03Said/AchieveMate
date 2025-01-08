@@ -89,114 +89,35 @@ namespace AchieveMate.Services
 
         #region Session
 
-        /*public async Task<TimeSpan?> FinishSessionAsync(int userId)
-        {
-            Console.WriteLine("\n\nenter\n\n");
-            bool isExist = _sessions.ContainsKey(userId);
-            if (isExist == true)
-            {
-                Console.WriteLine("\n\ncooking\n\n");
-                Session session = _sessions[userId];
-                Console.WriteLine("\n\ncooking0.1\n\n");
-                Console.WriteLine($"\n\n{session.Type}.1\n\n");
-
-                Console.WriteLine("\n\ncooking1\n\n");
-                TimeSpan time;
-
-                var serviceCollection = new ServiceCollection();
-
-                serviceCollection.AddDbContext<AppDbContext>(options =>
-            options.UseSqlServer("Server = .; Database = AchieveMate; Integrated Security = SSPI; TrustServerCertificate = True;"));
-
-                serviceCollection.AddScoped<IUserDayRepository, UserDayRepository>();
-                serviceCollection.AddScoped<TimerService>();
-                serviceCollection.AddSingleton<ConcurrentDictionary<int, MyTimer>>();
-
-                var serviceProvider = serviceCollection.BuildServiceProvider();
-
-                Console.WriteLine("\n\ncooking2\n\n");
-                using (var scope = serviceProvider.CreateScope())
-                {
-
-                    Console.WriteLine("\n\ncooking2.1\n\n");
-                    IUserDayRepository userDayRepository = scope.ServiceProvider.GetRequiredService<IUserDayRepository>();
-
-                    Console.WriteLine("\n\ncooking2.2\n\n");
-                    //var mytimerService = scope.ServiceProvider.GetRequiredService<TimerService>();
-                    var mytimerService = new TimerService(_timerSessions);
-
-                    Console.WriteLine("\n\ncooking0.2\n\n");
-                    TimeSpan elapsed = mytimerService.Elapsed(session.Id);
-                    Console.WriteLine("\n\ncooking0.3\n\n");
-                    time = mytimerService.Stop(session.Id);
-                    Console.WriteLine("\n\ncooking0.4\n\n");
-                    session.Status = SessionStatus.Finished;
-                    Console.WriteLine("\n\ncooking0.5\n\n");
-                    session.FinishedAt = DateTime.Now;
-                    Console.WriteLine("\n\ncooking0.6\n\n");
-                    session.ElapsedTime = elapsed;
-                    Console.WriteLine("\n\ncooking0.7\n\n");
-                    session.PauseTime = (session.FinishedAt.Value - session.StartAt) - session.ElapsedTime;
-                    await userDayRepository.UpdateSessionAsync(session);
-                }
-
-                _sessions.TryRemove(new KeyValuePair<int, Session>(userId, session));
-
-                Console.WriteLine("\n\ncooking3\n\n");
-                // add elapsed time to the activity and the day
-                await HandleSessionDependenciesAsync(session);
-                Console.WriteLine("\n\ncooking4\n\n");
-
-                return time;
-            }
-            return null;
-        }*/
-
         private async Task OnSessionFinished(object Sender, SessionEventArgs e)
         {
-            Console.WriteLine($"\n\nMyDaySer.with {e.UserId} ......\n\n\n");
             await FinishTimerSessionAsync(e.UserId);
         }
 
         public async Task<TimeSpan?> FinishTimerSessionAsync(int userId)
         {
-            Console.WriteLine("\n\nenter\n\n");
             bool isExist = _sessions.ContainsKey(userId);
             if (isExist == true)
             {
-                Console.WriteLine("\n\ncooking\n\n");
                 Session session = _sessions[userId];
-                Console.WriteLine("\n\ncooking0.1\n\n");
-                Console.WriteLine($"\n\n{session.Type}.1\n\n");
 
                 TimeSpan time;
                 using (var context = new AppDbContext())
                 {
-
-                    Console.WriteLine("\n\ncooking2.1\n\n");
                     IUserDayRepository userDayRepository = new UserDayRepository(context);
                     IActivityRepository activityRepository = new ActivityRepository(context);
                     ISessionService mytimerService = new TimerService(_timerSessions);
 
-                    Console.WriteLine("\n\ncooking0.2\n\n");
                     TimeSpan elapsed = mytimerService.Elapsed(session.Id);
-                    Console.WriteLine("\n\ncooking0.3\n\n");
                     time = mytimerService.Stop(session.Id);
-                    Console.WriteLine("\n\ncooking0.4\n\n");
                     session.Status = SessionStatus.Finished;
-                    Console.WriteLine("\n\ncooking0.5\n\n");
                     session.FinishedAt = DateTime.Now;
-                    Console.WriteLine("\n\ncooking0.6\n\n");
                     session.ElapsedTime = elapsed;
                     session.PauseTime = (session.FinishedAt.Value - session.StartAt) - session.ElapsedTime;
 
                     await userDayRepository.UpdateSessionAsync(session);
 
-                    Console.WriteLine("\n\ncooking0.7\n\n");
                     _sessions.TryRemove(new KeyValuePair<int, Session>(userId, session));
-
-                    Console.WriteLine("\n\ncooking3\n\n");
-                    /////
 
                     UserDay day = await userDayRepository.GetUserDayByIdAsync(session.DayId);
                     Activity? activity = await activityRepository.GetActivityByIdAsync(session.ActivityId);
@@ -208,8 +129,6 @@ namespace AchieveMate.Services
                     await userDayRepository.UpdateUserDayAsync(day);
 
                 }
-                ////
-                Console.WriteLine("\n\ncooking4\n\n");
 
                 return time;
             }
